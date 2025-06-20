@@ -1,0 +1,11 @@
+---
+title: Primala
+---
+
+# Primala: The Land of Beginning
+
+Primala is revered as the cradle of civilization—the very first landmass forged in the celestial fires that shaped Elarion. Ancient whispers say this fertile realm birthed the earliest kingdoms, where Man and Elf first learned to walk the paths of history side by side.
+
+Vast rolling plains stretch beneath endless skies, home predominantly to the resilient Plains Striders and the enigmatic Half Elves. Though Primala’s heart beats with the steady rhythm of these native peoples, it remains a vibrant crossroads—welcoming travelers, traders, and adventurers from neighboring lands, each adding their own stories to its rich tapestry.
+
+In Primala, the past is never far away, and the future seems to ripple like a breeze through golden fields. It is a land where legends begin—and where many believe the fate of Elarion will one day be decided.

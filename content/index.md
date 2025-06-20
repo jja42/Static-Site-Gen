@@ -1,46 +1,34 @@
-# Tolkien Fan Club
+# Welcome to the World of Elarion
 
-![JRR Tolkien sitting](/images/tolkien.png)
+Explore the regions and peoples of Elarion: a land shaped by myth, struggle, and wonder.
 
-Here's the deal, **I like Tolkien**.
+## Regions
 
-> "I am in fact a Hobbit in all but size."
->
-> -- J.R.R. Tolkien
+- [Primala](regions/primala/index.md)
+- [Baelarth](regions/baelarth/index.md)
+- [Vilund](regions/vilund/index.md)
+- [Drekmore](regions/drekmore/index.md)
+- [Wuthgrym](regions/wuthgrym/index.md)
 
-## Blog posts
+## Races
 
-- [Why Glorfindel is More Impressive than Legolas](/blog/glorfindel)
-- [Why Tom Bombadil Was a Mistake](/blog/tom)
-- [The Unparalleled Majesty of "The Lord of the Rings"](/blog/majesty)
+### Humans
 
-## Reasons I like Tolkien
+- [Plains Striders](races/humans/plains-striders.md)
+- [Sand Runners](races/humans/sand-runners.md)
+- [Mountain Scalers](races/humans/mountain-scalers.md)
+- [Nomadic Tribesmen](races/humans/nomadic-tribesmen.md)
 
-- You can spend years studying the legendarium and still not understand its depths
-- It can be enjoyed by children and adults alike
-- Disney _didn't ruin it_ (okay, but Amazon might have)
-- It created an entirely new genre of fantasy
+### Elves
 
-## My favorite characters (in order)
+- [Radiant Elves](races/elves/radiant-elves.md)
+- [Umbral Elves](races/elves/umbral-elves.md)
+- [Estuar Elves](races/elves/estuar-elves.md)
+- [Half Elves](races/elves/half-elves.md)
 
-1. Gandalf
-2. Bilbo
-3. Sam
-4. Glorfindel
-5. Galadriel
-6. Elrond
-7. Thorin
-8. Sauron
-9. Aragorn
+### Other Races
 
-Here's what `elflang` looks like (the perfect coding language):
-
-```
-func main(){
-    fmt.Println("Aiya, Ambar!")
-}
-```
-
-Want to get in touch? [Contact me here](/contact).
-
-This site was generated with a custom-built [static site generator](https://www.boot.dev/courses/build-static-site-generator-python) from the course on [Boot.dev](https://www.boot.dev).
+- [Howlkin](races/other/howlkin.md)
+- [Talonborn](races/other/talonborn.md)
+- [Komonox](races/other/komonox.md)
+- [Vorkul](races/other/vorkul.md)
