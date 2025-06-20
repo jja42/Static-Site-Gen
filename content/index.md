@@ -4,31 +4,31 @@ Explore the regions and peoples of Elarion: a land shaped by myth, struggle, and
 
 ## Regions
 
-- [Primala](regions/primala/index.md)
-- [Baelarth](regions/baelarth/index.md)
-- [Vilund](regions/vilund/index.md)
-- [Drekmore](regions/drekmore/index.md)
-- [Wuthgrym](regions/wuthgrym/index.md)
+- [Primala](regions/primala/index.html)
+- [Baelarth](regions/baelarth/index.html)
+- [Vilund](regions/vilund/index.html)
+- [Drekmore](regions/drekmore/index.html)
+- [Wuthgrym](regions/wuthgrym/index.html)
 
 ## Races
 
 ### Humans
 
-- [Plains Striders](races/humans/plains-striders.md)
-- [Sand Runners](races/humans/sand-runners.md)
-- [Mountain Scalers](races/humans/mountain-scalers.md)
-- [Nomadic Tribesmen](races/humans/nomadic-tribesmen.md)
+- [Plains Striders](races/humans/plains-striders.html)
+- [Sand Runners](races/humans/sand-runners.html)
+- [Mountain Scalers](races/humans/mountain-scalers.html)
+- [Nomadic Tribesmen](races/humans/nomadic-tribesmen.html)
 
 ### Elves
 
-- [Radiant Elves](races/elves/radiant-elves.md)
-- [Umbral Elves](races/elves/umbral-elves.md)
-- [Estuar Elves](races/elves/estuar-elves.md)
-- [Half Elves](races/elves/half-elves.md)
+- [Radiant Elves](races/elves/radiant-elves.html)
+- [Umbral Elves](races/elves/umbral-elves.html)
+- [Estuar Elves](races/elves/estuar-elves.html)
+- [Half Elves](races/elves/half-elves.html)
 
 ### Other Races
 
-- [Howlkin](races/other/howlkin.md)
-- [Talonborn](races/other/talonborn.md)
-- [Komonox](races/other/komonox.md)
-- [Vorkul](races/other/vorkul.md)
+- [Howlkin](races/other/howlkin.html)
+- [Talonborn](races/other/talonborn.html)
+- [Komonox](races/other/komonox.html)
+- [Vorkul](races/other/vorkul.html)
