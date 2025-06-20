@@ -134,3 +134,10 @@ button:hover {
   background-color: #3c64d9;
   box-shadow: 0 6px 12px var(--highlight-blue);
 }
+
+.content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
