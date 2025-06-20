@@ -1,7 +1,3 @@
----
-title: Wuthgrym
----
-
 # Wuthgrym: The Land of Promise
 
 Wuthgrym rises from harsh landscapes—barren deserts, sheer cliffs, and lofty mountain peaks—that test the mettle of all who seek its embrace. Yet, amidst this rugged terrain, it harbors some of the most prosperous and peaceful cities in the world, thanks to its rich natural resources.

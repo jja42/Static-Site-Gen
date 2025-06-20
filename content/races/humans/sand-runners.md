@@ -1,7 +1,3 @@
----
-title: Sand Runners
----
-
 # Sand Runners
 
 The Sand Runners are the spirited denizens of Wuthgrym’s vast and unforgiving deserts. Swift and graceful, they navigate the endless dunes with practiced ease, their movements a dance as fluid as the shifting sands.

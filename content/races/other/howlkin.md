@@ -1,7 +1,3 @@
----
-title: Howlkin
----
-
 # Howlkin
 
 Inhabitants of the fertile lands of Vilund, the Howlkin differ from other races more in culture than in form. Their deep connection to nature and the abundance surrounding them have left them unprepared for harsh, scarce lands beyond their home.

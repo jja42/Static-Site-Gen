@@ -1,7 +1,3 @@
----
-title: Half Elves
----
-
 # Half Elves
 
 Born from the union of various elven lineages—or between elves and humans—Half Elves often find themselves caught between worlds. Regarded as lesser by nearly all pure-blooded elves, they bear the weight of prejudice and exclusion.

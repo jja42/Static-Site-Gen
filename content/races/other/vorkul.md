@@ -1,7 +1,3 @@
----
-title: Vorkul
----
-
 # Vorkul
 
 Much like the Komonox, the Vorkul were once enslaved by Man and Elf. This shared history has created a tenuous kinship between the two races, but deep mistrust still lingers, often erupting in deadly skirmishes.

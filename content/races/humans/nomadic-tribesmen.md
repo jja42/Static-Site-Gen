@@ -1,7 +1,3 @@
----
-title: Nomadic Tribesmen
----
-
 # Nomadic Tribesmen
 
 Unlike other races of Man who settled and adapted to specific homelands, the Nomadic Tribesmen embraced a life of constant movement and freedom. They make their homes wherever the winds take them, embracing both the liberation and the hardships that come with their wandering ways.

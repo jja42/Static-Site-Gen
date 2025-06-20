@@ -1,7 +1,3 @@
----
-title: Plains Striders
----
-
 # Plains Striders
 
 The Plains Striders are the primary inhabitants of Primala, once celebrated for their wisdom, ambition, and pioneering spirit. Revered ancestors laid the foundations of a great civilization, and their legacy shaped the course of the land’s history.

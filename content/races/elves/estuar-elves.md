@@ -1,7 +1,3 @@
----
-title: Estuar Elves
----
-
 # Estuar Elves
 
 For generations, the Estuar Elves have been bound to the seas, their lives intertwined with the ebb and flow of tides and currents. Only in recent times—through arcane magic and subtle mutations—have they begun to venture upon the land.

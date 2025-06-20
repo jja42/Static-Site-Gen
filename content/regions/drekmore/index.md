@@ -1,7 +1,3 @@
----
-title: Drekmore
----
-
 # Drekmore: The Land of Solitude
 
 Drekmore is a realm shrouded in mist and mystery, where treacherous swamps and winding moats form natural barriers against the outside world. Isolation has shaped its people — wary, fierce, and bound by a history steeped in hardship and strife.

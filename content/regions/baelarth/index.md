@@ -1,7 +1,3 @@
----
-title: Baelarth
----
-
 # Baelarth: The Land of Purity
 
 Baelarth stands as the ancestral homeland of the Elves, a realm steeped in ancient magic and noble tradition. Its towering forests and crystal-clear lakes have witnessed the rise and fall of countless elven dynasties, each more proud and grand than the last.

@@ -1,7 +1,3 @@
----
-title: Komonox
----
-
 # Komonox
 
 The Komonox are a fierce warrior race, ruled by instincts and a deep-seated paranoia. Long ago, they were enslaved by Elves and Man, their weaker and more thoughtful members ruthlessly eliminated for being perceived threats.

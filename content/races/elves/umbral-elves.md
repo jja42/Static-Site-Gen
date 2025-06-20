@@ -1,7 +1,3 @@
----
-title: Umbral Elves
----
-
 # Umbral Elves
 
 Long shadowed by the Radiant Elves' disdain, the Umbral Elves harbor deep resentment towards their luminous cousins. Centuries of condescension have sparked bitter wars and entrenched divisions between the two peoples, each conflict only hardening old wounds and prejudices.

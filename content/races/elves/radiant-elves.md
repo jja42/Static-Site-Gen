@@ -1,7 +1,3 @@
----
-title: Radiant Elves
----
-
 # Radiant Elves
 
 The Radiant Elves hold the proud belief that they were crafted in the very image of the Celestial creators themselves. This divine heritage inspires many to live with grace and strive to positively shape the world around them.

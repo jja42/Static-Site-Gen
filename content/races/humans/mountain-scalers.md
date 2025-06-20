@@ -1,7 +1,3 @@
----
-title: Mountain Scalers
----
-
 # Mountain Scalers
 
 The Mountain Scalers are the proud champions of Wuthgrym’s rugged and treacherous peaks. Stout of frame and hardy in build, their stature often earns them the nickname “dwarves,” though they wear the title with quiet dignity rather than offense.

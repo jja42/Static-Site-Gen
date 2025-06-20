@@ -1,7 +1,3 @@
----
-title: Primala
----
-
 # Primala: The Land of Beginning
 
 Primala is revered as the cradle of civilization—the very first landmass forged in the celestial fires that shaped Elarion. Ancient whispers say this fertile realm birthed the earliest kingdoms, where Man and Elf first learned to walk the paths of history side by side.

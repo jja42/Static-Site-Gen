@@ -1,7 +1,3 @@
----
-title: Vilund
----
-
 # Vilund: The Land of Agriculture
 
 Vilund is the verdant heart of Elarion’s bounty — endless fields of grain, orchards heavy with fruit, and wild meadows that dance in the wind. Here, the land breathes life into all who dwell upon it, sustaining villages and cities alike with its generous harvests.
