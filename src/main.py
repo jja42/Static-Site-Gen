@@ -2,20 +2,17 @@ import shutil
 import os
 import re
 from markdown import markdown_to_html_node
-from htmlnode import HTMLNode
 
 def main():
-    base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
-    from_path = os.path.join(base_dir,"content/index.md")
-    template_path = os.path.join(base_dir,"template.html")
-    dest_path = os.path.join(base_dir,"public/index.html")
-    generate_page(from_path,template_path,dest_path)
-    #copy_static()
+    dir_path_static = "./static"
+    dir_path_public = "./public"
+    dir_path_content = "./content"
+    template_path = "template.html"
+    copy_static(dir_path_static, dir_path_public)
+    generate_pages_recursive(dir_path_content, template_path, dir_path_public)
 
-def copy_static():
-    base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
-    static_path = os.path.join(base_dir, "static")
-    public_path = os.path.join(base_dir, "public")
+
+def copy_static(static_path, public_path):
 
     #print("Static path:", static_path)
     #print("Public path:", public_path)
@@ -58,18 +55,31 @@ def extract_title(markdown):
         raise Exception("Missing Title")
     
 def generate_page(from_path, template_path, dest_path):
+    os.makedirs(os.path.dirname(dest_path), exist_ok=True)
     print(f"Generating page from {from_path} to {dest_path} using {template_path}")
-    file = open(from_path)
-    markdown = file.read()
-    file = open(template_path)
-    template = file.read()
+    with open(from_path, "r") as f:
+        markdown = f.read()
+    with open(template_path, "r") as f:
+        template = f.read()
     html_node = markdown_to_html_node(markdown)
     html = html_node.to_html()
     title = extract_title(markdown)
     template = template.replace("{{ Title }}",title)
     template = template.replace("{{ Content }}", html)
-    file = open(dest_path, "w")
-    file.write(template)
+    with open(dest_path, "w") as f:
+        f.write(template)
+
+def generate_pages_recursive(dir_path_content, template_path, dest_dir_path):
+    directory_contents = os.listdir(dir_path_content)
+    for content in directory_contents:
+        path = os.path.join(dir_path_content,content)
+        dest_path = os.path.join(dest_dir_path,content)
+        if(os.path.isfile(path)):
+            if(content.endswith(".md")):
+                dest_path = dest_path.replace(".md",".html")
+                generate_page(path,template_path,dest_path)
+        if(os.path.isdir(path)):
+            generate_pages_recursive(path,template_path,dest_path)
 
 
 if __name__ == "__main__":
